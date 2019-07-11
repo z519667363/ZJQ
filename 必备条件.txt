@@ -1,7 +1,0 @@
-IDEA
-maven 
-tomcat 
-git
-	code.aliyun.com
-	git ui sourcetree 
-
